@@ -39,6 +39,9 @@ body {
 	width: 85%;
 	padding: 0;
 }
+	.imag{
+		width:200px;
+	}
 }
 
 /* For devices larger than 550px */
